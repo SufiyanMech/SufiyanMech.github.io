@@ -245,7 +245,11 @@ section.services{
     border-radius: 10%;
     background: #DAA520;
 }
-
+section.services h3{
+    text-align: center;
+    color: #000;
+    margin-bottom: 12rem;
+}
 
 
 section.services .card-wrapper{
@@ -324,6 +328,13 @@ section.freelancer p{
     font-family: 'Lato', sans-serif;
 
 }
+
+section.freelancer h3{
+    text-align: center;
+    color: #eece1a;
+    margin-bottom: 2rem;
+}
+
 
 section.freelancer h2{
 
@@ -404,6 +415,13 @@ section.work h1{
     color:#eece1a;
 }
 
+section.work h3{
+    text-align: center;
+    color: #eece1a;
+    margin-bottom: 7rem;
+}
+
+
 section.work .card-wrapper{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -470,6 +488,8 @@ section.contact .card-wrapper .card{
     text-align: center;
 }
 
+
+
 section.contact .card-wrapper .card img{
 
     margin-bottom: 3rem;
@@ -490,6 +510,12 @@ section.contact .card-wrapper .card h6{
     margin-bottom: 4rem
 
 
+}
+
+section.contact h3{
+    text-align: center;
+    color: #eece1a;
+    margin-bottom: 1rem;
 }
 
 
