@@ -249,6 +249,8 @@ section.services h3{
     text-align: center;
     color: #000;
     margin-bottom: 12rem;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
 }
 
 
@@ -333,6 +335,8 @@ section.freelancer h3{
     text-align: center;
     color: #eece1a;
     margin-bottom: 2rem;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
 }
 
 
@@ -419,6 +423,8 @@ section.work h3{
     text-align: center;
     color: #eece1a;
     margin-bottom: 7rem;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
 }
 
 
@@ -471,8 +477,14 @@ section.work .card-wrapper.card img{
 
 
 section .Dassault h3{
-    font-style: 'LATO', sans-serif;
-} 
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+section .Dassault h4{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+
 
 
 section.contact .card-wrapper {
@@ -516,6 +528,8 @@ section.contact h3{
     text-align: center;
     color: #eece1a;
     margin-bottom: 1rem;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
 }
 
 
